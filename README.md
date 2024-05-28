@@ -2,7 +2,7 @@
 
 Project Laravel with the topic "website books selling".
 
-Read this in Vietnamese: [Vietnamese](README.vi.md)
+Read this in [Vietnamese](README.vi.md)
 
 This project involves developing a book selling website designed to provide users with a seamless online shopping experience. The website allows users to browse products, add items to their carts, make online payments, and track order status.
 
