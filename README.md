@@ -29,7 +29,6 @@ After cloning the project, just need to do a few procedures:
 2. set database with "php artisan migrate"
 3. set default data with "php artisan db:seed --class=[seeder name]"
 4. start the project with "php artisan serve"
-"
 ```
 
 Enjoys !!
