@@ -18,13 +18,13 @@ HTML, CSS, JavaScript, PHP, view code, userdefault, database seeder.
 
 ## Configuration
 
-After cloning the project, just need to do a few procedures:
+After cloning the project, Open terminal with project folder:
 
 ```
-1. Select project folder and right click, choose "Open in terminal"
-2. set database with "php artisan migrate"
-3. set default data with "php artisan db:seed --class=[seeder name]"
-4. start the project with "php artisan serve"
+php artisan optimize
+php artisan migrate
+php artisan db:seed --class=[seeder name]
+php artisan serve
 ```
 
 Enjoys !!
