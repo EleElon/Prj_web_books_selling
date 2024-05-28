@@ -18,7 +18,7 @@ HTML, CSS, JavaScript, PHP, view code, userdefault, database seeder.
 
 ## Cấu hình
 
-Sau khi nhân bản dự án, chỉ cần thực hiện một số thủ tục:
+Sau khi nhân bản dự án, mở terminal với thư mục của dự án:
 
 ```
 php artisan optimize
