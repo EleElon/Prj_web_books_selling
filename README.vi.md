@@ -2,7 +2,7 @@
 
 Dự án Laravel với chủ đề “website bán sách”.
 
-Đọc phần này bằng [Tiếng Anh](README.md)
+Đọc bằng [Tiếng Anh](README.md)
 
 Dự án này liên quan đến việc phát triển một trang web bán sách được thiết kế để cung cấp cho người dùng trải nghiệm mua sắm trực tuyến liền mạch. Trang web cho phép người dùng duyệt qua các sản phẩm, thêm mặt hàng vào giỏ hàng, thanh toán trực tuyến và theo dõi trạng thái đơn hàng.
 
