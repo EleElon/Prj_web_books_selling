@@ -16,7 +16,7 @@ Dự án này liên quan đến việc phát triển một trang web bán sách 
 
 ~~Huỳnh Minh Trọng~~
 
-Đỗ Ngọc Thắng `(Leader)`
+Đỗ Ngọc Thắng `Leader`
 
 Lê Nguyễn Tiến Phú
 
