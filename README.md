@@ -8,6 +8,14 @@ This project involves developing a book selling website designed to provide user
 
 **_Note: Still in development_**
 
+## Members
+
+~~Nguyen Thi Thuy Dung~~
+~~Vo Nhut Dong~~
+~~Huynh Minh Trong~~
+Do Ngoc Thang `(Leader)`
+Le Nguyen Tien Phu
+
 ## Prototype
 
 The prototype design created by the group is available to be viewed in Figma: https://www.figma.com/design/IojaO60ZuB7JVVy8396eiF/Untitled?t=WSurmnsXnzkG0rQQ-0
