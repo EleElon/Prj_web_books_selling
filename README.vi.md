@@ -8,6 +8,18 @@ Dự án này liên quan đến việc phát triển một trang web bán sách 
 
 **_Lưu ý: Vẫn đang được phát triển_**
 
+## Các thành viên
+
+~~Nguyễn Thị Thùy Dung~~
+
+~~Võ Nhựt Đồng~~
+
+~~Huỳnh Minh Trọng~~
+
+Đỗ Ngọc Thắng `(Leader)`
+
+Lê Nguyễn Tiến Phú
+
 ## Nguyên mẫu
 
 Thiết kế nguyên mẫu do nhóm tạo ra có sẵn để xem trong Figma: https://www.figma.com/design/IojaO60ZuB7JVVy8396eiF/Untitled?t=WSurmnsXnzkG0rQQ-0
