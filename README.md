@@ -16,7 +16,7 @@ This project involves developing a book selling website designed to provide user
 
 ~~Huynh Minh Trong~~
 
-Do Ngoc Thang `(Leader)`
+Do Ngoc Thang `Leader`
 
 Le Nguyen Tien Phu
 
