@@ -11,9 +11,13 @@ This project involves developing a book selling website designed to provide user
 ## Members
 
 ~~Nguyen Thi Thuy Dung~~
+
 ~~Vo Nhut Dong~~
+
 ~~Huynh Minh Trong~~
+
 Do Ngoc Thang `(Leader)`
+
 Le Nguyen Tien Phu
 
 ## Prototype
